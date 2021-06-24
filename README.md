@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amanbharti
+- 👀 I’m interested in Java development
+- 🌱 I’m currently learning AxiomSL. 
+- 💞️ I’m looking to collaborate on learning anything cool/new using Java
+- 📫 You can reach me on LinkedIn and Twitter.
